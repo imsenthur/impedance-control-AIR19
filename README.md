@@ -1,5 +1,4 @@
-# impedance-control-AIR19
-Dynamic modulation of human interactive robots using Impedance Control
+# Advances in Robotics 2019: Dynamic modulation of human interactive robots using Impedance Control
 
 ## Abstract
 Human-robot interaction is prominently seen in industries, haptics etc. where the underlying objective is to make the robot assistive in nature to the human. A methodology is proposed herein to improve
